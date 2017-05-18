@@ -1,13 +1,8 @@
-owner = CPL
-controller = CPL
-add_core = RUS
-add_core = CPL
+owner = AUS
+controller = AUS
+add_core = AUS
 add_core = POL
 trade_goods = sulphur
 life_rating = 38
 terrain = marginal_farmland
-1836.1.1 = {
-	owner = RUS
-	controller = RUS
-}
 1861.1.1 = { railroad = 3 }

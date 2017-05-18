@@ -14,14 +14,6 @@ vassal = {
 #	end_date = 1847.7.26
 #}
 
-# Netherlands-Luxembourg
-vassal = {
-	first = NET
-	second = LUX
-	start_date = 1839.4.19
-	end_date = 1890.1.1
-}
-
 # United Kingdom-Hanover
 vassal = {
 	first = ENG
@@ -36,14 +28,6 @@ vassal = {
 	second = ION
 	start_date = 1815.11.9
 	end_date = 1864.1.1
-}
-
-# Sweden-Norway
-vassal = {
-	first = SWE
-	second = NOR
-	start_date = 1815.11.9
-	end_date = 1905.1.1
 }
 
 # Russia-Bukey Horde
@@ -68,22 +52,6 @@ vassal = {
 	second = DAG
 	start_date = 1813.9.1
 	end_date = 1828.10.1
-}
-
-# Russia-Congress Poland
-vassal = {
-	first = RUS
-	second = CPL
-	start_date = 1815.9.1
-	end_date = 1832.10.1
-}
-
-# Russia-Finland
-vassal = {
-	first = RUS
-	second = FIN
-	start_date = 1809.3.29
-	end_date = 1917.12.6
 }
 
 # Ottoman Empire-Tripoli

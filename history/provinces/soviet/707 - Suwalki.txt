@@ -1,13 +1,8 @@
-owner = CPL
-controller = CPL
-add_core = RUS
+owner = PRU
+controller = PRU
+add_core = PRU
 add_core = LIT
-add_core = CPL
 add_core = POL
 trade_goods = grain
 life_rating = 38
 terrain = marsh
-1836.1.1 = {
-	owner = RUS
-	controller = RUS
-}
